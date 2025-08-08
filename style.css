@@ -45,6 +45,26 @@ section {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+.image-section {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 500px; 
+}
+
+.homepage-photo {
+  width: 60%; 
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.image-caption {
+  margin-top: 15px;
+  font-size: 1rem;
+  color: #444;
+  padding: 0 10px;
+}
+
 footer {
     text-align: center;
     padding: 15px;
